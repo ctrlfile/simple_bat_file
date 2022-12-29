@@ -1,1 +1,1 @@
-cmd.exe /c copy NUL %1\%2
+cmd.exe /c copy NUL %1
